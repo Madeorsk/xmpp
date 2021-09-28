@@ -1,4 +1,4 @@
-# fabiang/xmpp
+# madeorsk/xmpp
 
 Library for XMPP protocol connections (Jabber) for PHP.
 
@@ -13,7 +13,7 @@ Library for XMPP protocol connections (Jabber) for PHP.
 
 ## SYSTEM REQUIREMENTS
 
-- PHP minimum 5.6 or minimum 7.0
+- PHP minimum 7.0 or minimum 8.0
 - psr/log
 - (optional) psr/log-implementation - like monolog/monolog for logging
 
@@ -22,7 +22,7 @@ Library for XMPP protocol connections (Jabber) for PHP.
 New to Composer? Read the [introduction](https://getcomposer.org/doc/00-intro.md#introduction). Add the following to your composer file:
 
 ```bash
-composer require fabiang/xmpp
+composer require madeorsk/xmpp
 ```
 
 ## DOCUMENTATION
